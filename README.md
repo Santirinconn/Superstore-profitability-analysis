@@ -76,7 +76,7 @@ The dashboard provides a visual summary of:
 
 ---
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 📎 Author
 Santiago Rincón Sánchez  
