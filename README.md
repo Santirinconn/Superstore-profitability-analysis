@@ -78,6 +78,12 @@ The dashboard provides a visual summary of:
 
 ![Dashboard](Dashboard.png)
 
+## 🧠 What I Learned
+
+- The importance of balancing sales growth with profitability
+- How pricing strategies impact business performance
+- How to translate data into actionable business insights
+
 ## 📎 Author
 Santiago Rincón Sánchez  
 Aspiring Data Analyst
