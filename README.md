@@ -19,11 +19,36 @@ This analysis aims to answer:
 
 ---
 
+## 📂 Dataset
+
+The dataset used is the Superstore dataset, containing sales, profit, and discount information across multiple categories and sub-categories.
+
+---
+
 ## 🛠️ Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Data Visualization
 - Basic Data Modeling
+
+---
+
+## 🔍 Methodology
+
+- Data cleaning and preparation in Excel  
+- Creation of calculated fields (Profit Margin, Discount Band)  
+- Aggregation using Pivot Tables  
+- Data visualization and dashboard design  
+- Business insight generation
+
+---
+
+## 📊 Key Metrics
+
+- Total Sales  
+- Total Profit  
+- Profit Margin  
+- Discount Percentage
 
 ---
 
@@ -57,6 +82,13 @@ This analysis aims to answer:
 - Monitor profit margins by sub-category  
 - Implement controlled pricing strategies  
 - Reduce reliance on aggressive discounting to drive sales  
+
+---
+
+## ⚠️ Limitations
+
+- Analysis is limited to available data (no cost breakdown or customer behavior data)  
+- Results focus primarily on discount impact
 
 ---
 
